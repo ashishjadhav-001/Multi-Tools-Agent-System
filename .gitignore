@@ -1,0 +1,59 @@
+# ------------------ Python ------------------
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ------------------ Virtual Environment ------------------
+
+.venv/
+venv/
+env/
+ENV/
+
+# ------------------ Environment Variables ------------------
+
+.env
+.env.*
+*.env
+
+# ------------------ IDE / Editor ------------------
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------ OS Files ------------------
+
+.DS_Store
+Thumbs.db
+
+# ------------------ Logs ------------------
+
+*.log
+
+# ------------------ Docker ------------------
+
+*.pid
+*.seed
+
+# ------------------ Build / Cache ------------------
+
+build/
+dist/
+*.egg-info/
+
+# ------------------ Jupyter (if used) ------------------
+
+.ipynb_checkpoints/
+
+# ------------------ Streamlit ------------------
+
+.streamlit/
+
+# ------------------ Misc ------------------
+
+*.sqlite3

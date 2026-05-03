@@ -12,3 +12,5 @@ tavily-python
 
 rich
 wikipedia
+
+streamlit
